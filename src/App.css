@@ -13,3 +13,11 @@
   padding-right: 15%;
   padding-top: 5%;
 }
+.avatarImage {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border:3px solid black;
+  margin: 10px;
+}
